@@ -4,29 +4,6 @@
       <div class="w-max h-max">
         <p class="text-center text-2xl mb-2">Register with</p>
         <div class="flex flex-col gap-4">
-          <!-- <div class="flex flex-col gap-2">
-            <label for="fName">First Name</label>
-
-            <input
-              type="text"
-              name="fName"
-              id="fName"
-              v-model="fName"
-              placeholder="Enter your first name"
-              class="p-2 dark:bg-[#26202e] border dark:border-none"
-            />
-          </div>
-          <div class="flex flex-col gap-2">
-            <label for="lName">Last Name</label>
-            <input
-              type="text"
-              name="lName"
-              id="lName"
-              v-model="lName"
-              placeholder="Enter your last name"
-              class="p-2 dark:bg-[#26202e] border dark:border-none"
-            />
-          </div> -->
           <div class="flex flex-col gap-2">
             <label for="email">Email</label>
             <input

@@ -1,6 +1,6 @@
 <template>
   <section class="h-svh justify-center items-center flex">
-    <p class="text-6xl">You made it.. wossop</p>
+    <p class="text-6xl">Yo {{ userfName }}, you made it.. wossop</p>
   </section>
 </template>
 

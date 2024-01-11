@@ -1,6 +1,6 @@
 <template>
   <section class="h-svh grid place-items-center">
-    <p class="p-3xl">A confirmation mail has been sent to your mail</p>
+    <p class="p-3xl">A confirmation mail has been sent to your email</p>
   </section>
 </template>
 
